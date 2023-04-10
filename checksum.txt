@@ -122,6 +122,8 @@ feb065078e57e1cc25cf128c044daa96964117035babd7e93f411ba956b0c007  ./godwoken-pol
 50fb7623564048dbcef97dbbd9587b284180e0cf8d5350a69bb65d6cfc24c51c  ./godwoken-polyjuice-v1.5.2/generator.debug
 342bac1659df8b1f12201ff952efc298b17d8875bda911ca059629486338604c  ./godwoken-polyjuice-v1.5.3/generator
 a2dccc4d06c011afcf985e32d3bb04b47ced54de93ee688344829f11549a784e  ./godwoken-polyjuice-v1.5.3/generator.debug
+e4d2fed018645548204215413c13abd24ad94398ee28822c4f8f503268fefddb  ./godwoken-polyjuice-v1.5.5/generator
+25e8f3889c890805bc4eaca0c564fc64c1ced7b85d4592147d679de2cdf56fd4  ./godwoken-polyjuice-v1.5.5/generator.debug
 16bfc4f1a3c8d5f78d0c4540b04f0c20eb96e0dd0444d8323acd1790f676c608  ./gwos-v1.3.0-rc1/always-success
 a58952c291a01f5774327e091054602232b03c5d0e956a87314ce2e32f5c11a7  ./gwos-v1.3.0-rc1/challenge-lock
 c17d035dfd2387a8a815c9c57a0c38178a880ddb001efd88b6982c6239d7c333  ./gwos-v1.3.0-rc1/custodian-lock
